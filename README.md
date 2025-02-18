@@ -1,44 +1,59 @@
-<h1 align="center">Hi 👋, I'm Nashson/Zikirah</h1>
-<h3 align="center">Frontend Developer from Nepal</h3>
+<!-- <div align="left">
+  <img height="250" src="YOUR_WEBSITE_IMAGE_LINK_HERE" />
+</div> -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zikirah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+###
 
-<p align="center">
-  <a href="https://zikirah.vercel.app/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Internet_Explorer_4_and_5_logo.svg" alt="Website" width="30" />
+<h2 align="left">Hi 👋! I'm Zikirah, an AI Enthusiast & Web Developer</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>  
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto:zikirahbusiness@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Gmail_icon_%282020%29.svg" alt="Gmail" width="30" />
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://instagram.com/zikiraahh" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="25" />
+  <a href="https://YOUR_WEBSITE_LINK/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=googlechrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo"  />
   </a>
-  <a href="https://www.youtube.com/c/zikirah" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="25" />
-  </a>
-</p>
+</div>
 
-<h3 align="center">Languages & Tools:</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="30" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="30" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="30" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="30" />
-</p>
+###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zikirah&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="130" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zikirah&theme=radical" alt="GitHub Streak" height="130" />
-</p>
+<br clear="both">
+
+###
