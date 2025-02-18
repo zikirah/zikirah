@@ -1,4 +1,4 @@
-<h1>Hi 👋! My name is Nashson and I'm a Video Editor and Frontend Developer</h1>
+<h1>Hi! My name is Nashson and I'm a Video Editor and Frontend Developer</h1>
 
 ---
 <p align="center">
