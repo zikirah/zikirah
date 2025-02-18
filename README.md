@@ -2,7 +2,7 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zikirah&layout=compact&theme=radical" height="150" alt="Most Used Languages" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zikirah&layout=compact&theme=radical" height="150" alt="Most Used Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zikirah&theme=radical" height="150" alt="GitHub Streaks" />
 </p>
 
