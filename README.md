@@ -27,8 +27,6 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   <img width="10" />
-  <img src="https://avatars.githubusercontent.com/u/110503934?s=280&v=4" height="40" alt="Cursor" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img width="10" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" alt="Figma" />
@@ -38,7 +36,10 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow" />
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zikirah&show_icons=true&locale=en&layout=compact" alt="zikirah" height="150" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zikirah&theme=dracula&hide_border=false" alt="zikirah" height="150" />
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zikirah&theme=dracula&hide_border=false" alt="Streak Stats" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zikirah&show_icons=true&locale=en&layout=compact" height="160"/>
 </p>
