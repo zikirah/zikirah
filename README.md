@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zikirah&margin-w=5&row=1" alt="GitHub Trophies" />
+  <a href="https://zikirah.vercel.app/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Internet_Explorer_4_and_5_logo.svg" alt="Website" width="30" />
+  </a>
+  <a href="mailto:zikirahbusiness@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Gmail_icon_%282020%29.svg" alt="Gmail" width="30" />
   </a>
 </p>
-
-- 👨‍💻 Check out my projects: [zikirah.vercel.app](https://zikirah.vercel.app/)  
-- 📫 Reach me at **zikirahbusiness@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
