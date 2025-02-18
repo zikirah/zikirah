@@ -18,9 +18,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=zikirah" alt="zikirah" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://zikirah.vercel.app/](https://zikirah.vercel.app/)  
-- 📫 How to reach me **zikirahbusiness@gmail.com**  
-
 ###  
 
 <div align="left">
